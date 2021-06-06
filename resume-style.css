@@ -283,3 +283,8 @@ h6{
   max-width: 250px;
 }
 }
+@media(max-width:600px){
+ footer {
+  font-size: 13px;
+  } 
+}
