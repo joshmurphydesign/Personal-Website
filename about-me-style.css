@@ -243,12 +243,15 @@ footer{
   height: 150px;
   max-width: 250px;
 }
+  footer {
+  font-size: 13px;
+  }
 }
 
 @media(max-width:600px){
- footer {
+footer {
   font-size: 13px;
-  } 
+  }
   li{
    font-size: 11px;
   }
