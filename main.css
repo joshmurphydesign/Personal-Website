@@ -254,6 +254,7 @@ img:hover{
   border-style: solid;
   border-color: black;
   border-width: 20px;
+  margin-bottom: 10px;
 }
 
 .long {
@@ -262,6 +263,7 @@ img:hover{
   border-style: solid;
   border-color: black;
   border-width: 20px;
+  margin-bottom: 20px;
 }
 }
 
