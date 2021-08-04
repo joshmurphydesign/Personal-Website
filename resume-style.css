@@ -228,7 +228,7 @@ h6{
   color: black;
 }
 
-.referencelink:hover{
+a.referencelink:hover{
   color: light grey;
   filter: brightness(70%);
   transition-duration: 300ms;
