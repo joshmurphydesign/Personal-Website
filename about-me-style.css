@@ -112,13 +112,13 @@ a {
 }
 
 a:hover {
-  color: light grey;
+  color: #d3d3d3;
   filter: brightness(70%);
   transition-duration: 300ms;
 }
 
 svg:hover {
-  color: light grey;
+  color: #d3d3d3;
   filter: brightness(70%);
   transition-duration: 300ms;
 }
