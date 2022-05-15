@@ -137,6 +137,7 @@ h1 {
 
 h2{
   font-family: Roboto;
+  color: #404040;
   font-style: normal;
   font-weight: 300;
   font-size: 35px;
@@ -149,6 +150,7 @@ h2{
 
 p{
   font-family: Roboto;
+  color: #404040;
   font-style: normal;
   font-weight: 300;
   font-size: 20px;
@@ -165,6 +167,7 @@ ul{
 
 li{
   display: inline;
+  color: #404040;
   font-family: Roboto;
   font-style: normal;
   font-weight: 300;
