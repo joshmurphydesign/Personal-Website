@@ -184,16 +184,12 @@ img:hover{
 }
 
 .button{
-  color: #ffffff;
+  color: #000000;
   font-family: Roboto;
   font-style: normal;
   font-weight: 300;
   font-size: 30px;
   padding: 15px 15px 15px 15px;
-}
-
-.button-wrap{
-  color: #000000;
 }
 
 #links{
