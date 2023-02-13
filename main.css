@@ -278,10 +278,6 @@ img:hover{
   height: 150px;
   max-width: 250px;
 }
-.button{
-  margin-left: 40%;
-  margin-right: 40%;
-}
 }
 
 @media(max-width: 600px){
@@ -324,8 +320,6 @@ footer {
   justify-content: center;
   margin-top: 30px;
   margin-bottom: 30px;
-  margin-left: 40%;
-  margin-right: 40%;
 }
   
 
