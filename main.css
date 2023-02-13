@@ -183,6 +183,13 @@ img:hover{
   transition-duration: 700ms;
 }
 
+.button{
+  color: #404040;
+}
+.button:hover{
+  color: grey;
+}
+
 @media(max-width: 950px){
   
   body {
