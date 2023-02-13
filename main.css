@@ -184,15 +184,25 @@ img:hover{
 }
 
 .button{
-  color: #404040;
+  background-color: #000000;
+  color: #ffffff;
   font-family: Roboto;
   color: black;
   font-style: normal;
   font-weight: 300;
   font-size: 10px;
+  padding: 5px 5px 5px 5px;
 }
+
 .button:hover{
   color: grey;
+}
+
+#links{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin-top:-71px;
 }
 
 @media(max-width: 950px){
