@@ -200,7 +200,8 @@ img:hover{
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  margin-top:-71px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 @media(max-width: 950px){
