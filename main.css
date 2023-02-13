@@ -185,6 +185,11 @@ img:hover{
 
 .button{
   color: #404040;
+  font-family: Roboto;
+  color: black;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10px;
 }
 .button:hover{
   color: grey;
