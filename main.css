@@ -61,7 +61,7 @@ nav {
 }
 
 #logo {
-  background-color: #f5f5f5;
+  background-color: #b4945c;
   padding: 10px 10px 10px 10px;
   display: flex;
   align-items: center;
@@ -71,7 +71,7 @@ nav {
 }
 
 #about {
-  background-color: #f5f5f5;
+  background-color: #b4945c;
   margin-right: 1px;
   padding: 20px;
   font-family: Roboto;
@@ -85,7 +85,7 @@ nav {
 }
 
 #resume {
-  background-color: #f5f5f5;
+  background-color: #b4945c;
   margin-right: 20px;
   padding: 20px;
   font-family: Roboto;
