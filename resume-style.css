@@ -192,21 +192,23 @@ li{
   margin-bottom: 55px;
 }
 
-footer{
+footer {
   font-family: Roboto;
   font-style: normal;
   font-weight: 300;
   font-size: 19px;
-  color: #ffffff;
-  background-color: #c3a261;
+  color: #36454F;
+  background-color: #b4945c;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 75px;
-  margin-right: -8px;
-  margin-left: -8px;
+  width: 100%;
+/*   margin-right: -15px; */
+  margin-left: -15px;
   margin-bottom: -8px;
-  margin-top: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 h6{
