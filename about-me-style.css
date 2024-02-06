@@ -109,7 +109,7 @@ nav {
 
 a {
   text-decoration: none;
-  color: black;
+  color: #1e3b50;
 }
 
 a:hover {
@@ -202,7 +202,7 @@ footer {
   font-weight: 300;
   font-size: 19px;
   color: #36454F;
-  background-color: #b4945c;
+  background-color: #36454f;
   display: flex;
   align-items: center;
   justify-content: center;
