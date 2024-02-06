@@ -61,7 +61,7 @@ nav {
 }
 
 #logo {
-  background-color: #1e3b50;
+  background-color: #ffffff;
   padding: 10px 10px 10px 10px;
   display: flex;
   align-items: center;
@@ -71,7 +71,7 @@ nav {
 }
 
 #about {
-  background-color: #1e3b50;
+  background-color: #ffffff;
   margin-right: 1px;
   padding: 20px;
   font-family: Roboto;
@@ -85,7 +85,7 @@ nav {
 }
 
 #resume {
-  background-color: #1e3b50;
+  background-color: #ffffff;
   margin-right: 20px;
   padding: 20px;
   font-family: Roboto;
@@ -108,7 +108,7 @@ nav {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #1e3b50;
 }
 
 a:hover {
