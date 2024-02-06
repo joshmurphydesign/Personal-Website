@@ -267,6 +267,12 @@ h6{
   height: 235px;
 }
 
+ footer {
+    font-size: 17px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
 #carousel-wrapper {
   padding: 70px 5px 0px 5px;
   display: flex;
