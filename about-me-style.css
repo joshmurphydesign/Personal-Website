@@ -196,6 +196,18 @@ li{
   padding: 15px 15px 15px 15px;
 }
 
+.bluebutton{
+  color: #1b3e57;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  padding: 15px 15px 15px 15px;
+}
+
 footer {
   font-family: Roboto;
   font-style: normal;
